@@ -1,0 +1,131 @@
+[
+
+
+    {
+        "id": 1,
+        "title": "Waves Music Player",
+        "tech": "React",
+        "git":"https://github.com/nejc000l/Waves-Player_final/tree/master",
+        "icon": "svg/js-brands.svg",
+        "link": "https://nejc000l.github.io/Waves-Player_final/",
+        "path":"images/react.png",
+        "image":"images/waves.png",
+        "about":"I build this music app with the help of  React. The music player allows users to play songs from the API library."
+
+    },
+    {
+        "id": 2,
+        "title": "Medium Blog",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "git":"https://github.com/nejc000l/sanitydemo",
+        "link": "https://sanitydemo2-n8qz0gojj-nejc000l.vercel.app/",
+        "path":"images/react.png",
+        "image":"images/medium.png",
+        "about":"A blog website app build in NextJs and Sanity CMS. In this app the users can post their feeds and comments. Comments are managed with Sanity CMS."
+
+
+
+    },
+    {
+        "id": 3,
+        "title": "Spotify-Clone",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "git": "https://github.com/nejc000l/spotify-2",
+        "link": "https://github.com/nejc000l/spotify-2",
+        "path":"images/react.png",
+        "image":"images/spotify.png",
+        "about":"A recreation of Spotify website Player in NextJs React. I made a music player app that allows users to play songs and find from their playlist."
+
+
+    },
+    {
+        "id": 4,
+        "title": "Weather App",
+        "git": "https://github.com/nejc000l/React_weather_aplication/tree/master/com",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "link": "https://laughing-pike-ec6209.netlify.app/",
+        "path":"images/react.png",
+        "image":"images/wather.jpg",
+        "about":"A weather app build in React. A user can input a location and the app fetches api from data about the weather."
+
+
+
+    },
+    {
+        "id": 5,
+        "title": "Lovsko Društvo Pugled",
+        "tech": "React",
+        "git":"https://github.com/nejc000l/lpd-pugled",
+        "icon": "svg/react-brands.svg",
+        "link": "http://www.ldpugled.si/#/",
+        "path":"images/react.png",
+        "image":"images/pugled.png",
+        "about":"A website for local hunting community build in React."
+
+        
+
+
+    },
+    {
+        "id": 6,
+        "title": "Beatmaker",
+        "git":"https://github.com/nejc000l/beatmaker-app",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "link": "https://nejc000l.github.io/beatmaker-app/",
+        "path":"images/javas.png",
+        "image":"images/beatmaker.png",        
+        "about":"A drum machine scripted in vanilla Javascript. This app allows the user to create a drum beat."
+
+
+    },
+    {
+        "id": 7,
+        "title": "Piano in React",
+        "git":"https://github.com/nejc000l/Piano-React/tree/master/my",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "link": "https://naughty-torvalds-386683.netlify.app/",
+        "path":"images/react.png",
+        "image":"images/piano.png",
+        "about":"A piano created in React. A simple piano app that allows the user to play notes on the keyboard."
+
+
+
+    },
+
+    {
+        "id": 8,
+        "git":"https://github.com/nejc000l/Final-Natours-projects",
+        "title": "Natoures",
+        "tech": "Node",
+        "icon": "svg/react-brands.svg",
+        "link": "https://objective-natorius-46f506.netlify.app/",
+        "path":"images/node.png",
+        "image":"images/discover.png",
+        "about":"A booking landing page for a travel agency build in CSS NodeJs and Html."
+
+
+
+    },
+
+    {
+        "id": 6,
+        "title": "Robo Friends",
+        "git":"https://github.com/nejc000l/robo_friends_v2-master",
+        "tech": "React",
+        "icon": "svg/react-brands.svg",
+        "link": "https://nejc000l.github.io/robo_friends_v2-master/",
+        "path":"images/react.png",
+        "image":"images/robo.png",        
+        "about":"A simple Robot search engine build in React. This app allows user to search for the name or email address of the robots "
+
+
+
+    }
+
+
+]
