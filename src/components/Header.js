@@ -7,7 +7,7 @@ import Projects from './projects';
 
 function Header() {
   return (
-    <main className=' overflow-hidden relative mx-auto flex min-h-screen w-auto  flex-col items-center justify-center'>
+    <main className=' overflow-hidden relative mx-10 flex min-h-screen w-auto  flex-col items-center justify-center'>
       <div className="text-white flex justify-center">
         <div className='flex justify-center p-2	'>
         <a className='z-100' href="https://github.com/nejc000l?tab=repositories">

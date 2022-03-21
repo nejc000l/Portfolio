@@ -5,8 +5,8 @@ import Link from 'next/link';
 console.log(datas[0]);
 function Projects() {
   return (
-    <div className='flex w-96 content-center items-center justify-center'>
-      <div className=''>
+    <div className='flex md:w-96 content-center items-center justify-center'>
+      <div className='mx-[10rem]'>
         <div>
           <div className=' cursor-pointer text-center text-white'>
             <Link className=' cursor-pointer' href='/'>
@@ -25,7 +25,7 @@ function Projects() {
                   </h1>
                 </a>
 
-                <a className='text-ce z-50' href={data.link}>
+                <a className='text-sm	 z-50' href={data.link}>
                   <div className='my-2 flex place-content-center'>
                     <img
                       className='h-auto	w-96 place-content-center duration-300 ease-in hover:w-[28rem]'
@@ -33,7 +33,7 @@ function Projects() {
                     />
                   </div>
 
-                  <h4 className='text-md w-[30rem] text-center font-sourCode text-[1rem] text-white'>
+                  <h4 className='text-sm md:px-[0rem]	px-[5rem] w-[30rem] text-center font-sourCode text-[1rem] text-white'>
                     {data.about}
                   </h4>
 
