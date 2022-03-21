@@ -105,7 +105,7 @@
         "icon": "svg/react-brands.svg",
         "link": "https://objective-natorius-46f506.netlify.app/",
         "path":"images/node.png",
-        "image":"images/discover.png",
+        "image":"images/natour.png",
         "about":"A booking landing page for a travel agency build in CSS NodeJs and Html."
 
 
@@ -113,7 +113,7 @@
     },
 
     {
-        "id": 6,
+        "id": 9,
         "title": "Robo Friends",
         "git":"https://github.com/nejc000l/robo_friends_v2-master",
         "tech": "React",
