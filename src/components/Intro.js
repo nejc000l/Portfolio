@@ -16,7 +16,7 @@ function Intro() {
       <TextLoop interval={2500}>
         <h1 className='font-sourCode flex flex-row justify-around p-5 text-white	'>
           {' '}
-          Hello welcome to my {' '}
+          Welcome to my {' '}
           <Link href='/port'>
             <h1 className=' font-sourCode cursor-pointer px-2 underline  text-gray-300 duration-200  ease-in hover:text-gray-500'>
               {' '}
