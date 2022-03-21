@@ -18,15 +18,15 @@ function Intro() {
           {' '}
           Hello welcome to my {' '}
           <Link href='/port'>
-            <h2 className=' font-sourCode cursor-pointer px-2 underline  text-gray-300 duration-200  ease-in hover:text-gray-500'>
+            <h1 className=' font-sourCode cursor-pointer px-2 underline  text-gray-300 duration-200  ease-in hover:text-gray-500'>
               {' '}
               Portfolio{' '}
-            </h2>
+            </h1>
           </Link>{' '}
         </h1>
-        <h2 className='text-white'>
+        <h1 className='font-sourCode text-white'>
           Here are some of the projects I made so far.
-        </h2>
+        </h1>
       </TextLoop>
     </div>
   </div>  )
