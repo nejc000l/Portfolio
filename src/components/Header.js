@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image'
 import React from 'react';
-import { AiFillGithub } from '@react-icons/all-files/Ai/AiFillGithub';
-import { SiNetlify } from '@react-icons/all-files/Si/SiNetlify';
+{/*import { AiFillGithub } from '@react-icons/all-files/Ai/AiFillGithub';
+import { SiNetlify } from '@react-icons/all-files/Si/SiNetlify';*/}
 import Projects from './projects';
 
 function Header() {
