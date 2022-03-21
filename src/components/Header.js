@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub } from 'react-icons/Ai/';
-import { SiNetlify } from 'react-icons/Si/';
+import { AiFillGithub } from '@react-icons/all-files/Ai/AiFillGithub';
+import { SiNetlify } from '@react-icons/all-files/Si/SiNetlify';
 import Projects from './projects';
 
 function Header() {
